@@ -1,5 +1,6 @@
 # DeepSeek Finetuning
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GuiHoffmannDev/deepseek-finetuning/blob/main/deepseek_finetuning.ipynb)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange)
 ![Runtime: Colab T4](https://img.shields.io/badge/runtime-Colab%20T4-yellow)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
@@ -77,7 +78,7 @@ A Google account for [Colab](https://colab.research.google.com), or any Linux ma
 
 ### Run
 
-1. Upload [deepseek_finetuning.ipynb](deepseek_finetuning.ipynb) to Colab.
+1. Click the **Open in Colab** badge at the top of this page, or upload [deepseek_finetuning.ipynb](deepseek_finetuning.ipynb) to Colab.
 2. Select **Runtime > Change runtime type > T4 GPU**.
 3. Select **Runtime > Run all**.
 
