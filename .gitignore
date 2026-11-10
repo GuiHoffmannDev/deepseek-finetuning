@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+outputs/
+model/
+model_gguf/
+llama.cpp/
+*.gguf
